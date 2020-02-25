@@ -1,0 +1,9 @@
+In this scenario two real world buildings and a real world avenue are simulated together
+with one UE crossing the avenue. There is one single eNB located behind one of the
+buildings (from the point of view of the UE) so that during part of the simulation the
+UE has direct line of sight to the eNB and in some parts it is blocked by the buildings.
+Notice that the distance between the UE and the eNB changes very little during the
+whole simulation. So the minimum distance is 50 meters and the maximum distance is
+nearly 80 meters. Besides in this simulation in order to capture the RTT and the CWND
+one remote host (i.e. a web-server over the internet) is inserted in the simulation, so that
+this remote host sends data packages to each UE.

@@ -1,0 +1,5 @@
+Now in addition to the last scenario (6) we also inserted a second eNB (at the same distance
+from the second UE as the first one with relation to the first UE) so that now each UE
+will be getting close to an eNB at the same time that it is getting away from another.
+With this scenario (7) we want to check how the UEs interfere with each other and how is
+the interaction of the eNBs in the presence of the obstacles.

@@ -1,0 +1,1 @@
+This scenario (5) follows the same setting as the last one (scenario 4), except that the UE moves now backwards (starting far away from the eNB and ending near it).

@@ -1,0 +1,3 @@
+In this first scenario 40 user devices concentrated
+in the same spot (simulating users in a bus) 15 meters
+from 5 eNBs (also at the same location) will be simultated.

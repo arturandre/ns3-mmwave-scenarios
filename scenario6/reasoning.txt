@@ -1,0 +1,3 @@
+Since the behavior of the SINR, RTT and of the CWND, has proven to be quite consistent
+for a simple scenario (5) with one moving UE, one single eNB and two buildings, in this
+scenario (6) we tried to combine the two last ones (4 and 5).

@@ -1,0 +1,10 @@
+In this scenario 40 user devices concentrated
+in the same spot (simulating users in a bus) 15 meters
+from 1 eNBs will be simultated.
+
+This scenario is exacltly like scenario1 except that instead of having 5 eNBs at the
+same location now there is only one.
+
+With this we can conclude if the eNBs intefere with each other or not, since in the
+scenario one we observed that when multiple eNBs are at the same spot the UEs (also
+in one single location) connects to just one eNB.
